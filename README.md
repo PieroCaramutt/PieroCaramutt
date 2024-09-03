@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Software Developer Grad @ Sheridan College /n
+Software Developer Grad @ Sheridan College <br>
 🔭 I'm currently looking to land a career on my field
 🤔 You can help me with some feedback! I'm always looking to learn new lenguages or technologies
 📫 You can reach me at caramutt@sheridancollege.ca 
