@@ -19,4 +19,4 @@ Software Developer Grad @ Sheridan College <br>
 🤔 You can help me with some feedback! I'm always looking to learn new lenguages or technologies <br>
 📫 You can reach me at caramutt@sheridancollege.ca  <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PieroCaramutt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PieroCaramutt&layout=compact&langs_count=8)
